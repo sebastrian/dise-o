@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: o;
+    font-family: 'Dongle', sans-serif;
+}
+header{
+    background-color: #19A7CE;
+}
+.nav .nav-item .nav-link{
+    color: #000;
+}
+.banner .foto{
+    margin-top:10%;
+    margin-left: 35%;
+    
+}
+.texto h2{
+    margin-top: -30%;
+    margin-left: 40%;
+}
+ .txtBanner{
+    color:blue;
+    width: 20%;
+    margin-left: 60%;
+    font-size:150% ;
+}
+.card{
+    margin-top: -30%;
+}
+.card2{
+    margin-left: 125%;
+    margin-top: -100%;
+}
+.card3{
+    margin-top:-210% ;
+    margin-left:100% ;
+}
+.card4{
+    margin-left: 125%;
+    margin-top: -210%; 
+}
+.card5{
+    margin-left: 5%;
+    margin-top:-21%; 
+}
+h3{
+    margin-left: 50%;
+    margin-top: 5%;
+}
+.ubi{
+    margin-left: 35%;
+    margin-top: 3%;
+}
+#mapa{
+    background-color: aqua;
+}
+.btn{
+    margin-left: 90%;
+    margin-top: -3%;
+}
+.nav-item .nav-link:hover{
+    color: yellow;
+}
+.video{
+    margin-left: 25%;
+
+}
+footer{
+    background-color: beige;
+}
+.logos .face{
+    width: 60px;
+
+}
+.formulario{
+    width: 30%;
+}
+.enviar{
+    margin-right: 20%;
+}
